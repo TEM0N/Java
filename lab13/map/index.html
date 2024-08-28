@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../style.css">
+    <title>Map</title>
+</head>
+<body>
+<div class="dropdown">
+    <button class="button">Dropdown</button>
+    <div class="dropdown-content">
+        <a href="../about-me/index.html">About me</a>
+        <a href="../form/index.html">Form</a>
+        <a href="../map/index.html">Map</a>
+    </div>
+</div>
+<img src="image.jpg" usemap="#image-map" alt="">
+
+<map name="image-map">
+    <area target="" alt="blue" title="blue" href="" coords="764,0,393,342,723,683,0,685,1,0" shape="poly"
+          onclick="alert('it`s blue!')">
+    <area target="" alt="pink" title="pink" href="" coords="958,3,764,1,396,341,723,685,959,685" shape="poly"
+          onclick="alert('it`s pink!')">
+</map>
+</body>
+</html>
