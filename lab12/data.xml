@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Exports>
+    <Export>
+        <name>teapot</name>
+        <country>Belarus</country>
+        <quantity>1000</quantity>
+    </Export>
+    <Export>
+        <name>books</name>
+        <country>China</country>
+        <quantity>20000</quantity>
+    </Export>
+    <Export>
+        <name>fish</name>
+        <country>Russia</country>
+        <quantity>500</quantity>
+    </Export>
+    <Export>
+        <name>laptop</name>
+        <country>Armenia</country>
+        <quantity>1200</quantity>
+    </Export>
+    <Export>
+        <name>laptop</name>
+        <country>Armenia</country>
+        <quantity>12000</quantity>
+    </Export>
+    <Export>
+        <name>laptop</name>
+        <country>Serbia</country>
+        <quantity>10000</quantity>
+    </Export>
+    <badTag>no matter</badTag>
+</Exports>

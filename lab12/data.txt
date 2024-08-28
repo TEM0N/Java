@@ -1,0 +1,6 @@
+teapot Belarus 1000
+books China 20000
+fish Russia 500
+laptop Armenia 1200
+laptop Armenia 12000
+laptop Serbia 10000
